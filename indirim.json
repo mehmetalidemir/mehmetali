@@ -98,8 +98,8 @@
    "posts_list_screen":{
       "style":"style2",
       "options":{
-         "show_date_meta":true,
-         "date_show_as_time_ago":true,
+         "show_date_meta":false,
+         "date_show_as_time_ago":false,
          "show_comments_meta":true,
          "show_category_meta":true,
          "show_excerpt":true
@@ -108,8 +108,8 @@
    "post_screen":{
       "style":"style2",
       "options":{
-         "show_post_date_meta":true,
-         "post_date_show_as_time_ago":true,
+         "show_post_date_meta":false,
+         "post_date_show_as_time_ago":false,
          "post_show_comments_meta":true,
          "post_show_comments_navigation":true,
          "post_show_category_meta":true,
