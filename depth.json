@@ -1,17 +1,7 @@
 [
     {
         "name": "Abstract Blue",
-        "imageName": "abstract_blue.jpg",
-        "previewImageName": "abstract_blue_preview.jpg"
+        "imageName": "https://i.imgur.com/Qq2ltJh.jpg",
+        "previewImageName": "https://i.imgur.com/5svIiU9.jpg"
     },
-    {
-        "name": "Nature Green",
-        "imageName": "nature_green.jpg",
-        "previewImageName": "nature_green_preview.jpg"
-    },
-    {
-        "name": "City Lights",
-        "imageName": "city_lights.jpg",
-        "previewImageName": "city_lights_preview.jpg"
-    }
 ]
