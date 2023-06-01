@@ -1,10 +1,12 @@
 [
     {
+        "id": "1",
         "name": "Abstract",
         "imageName": "https://i.ibb.co/5rZJmFm/abstract.jpg",
         "previewImageName": "https://i.ibb.co/vq7644V/abstract-preview.jpg"
     },
     {
+        "id": "2",
         "name": "Agent",
         "imageName": "https://i.ibb.co/f4YjFHc/agent.jpg",
         "previewImageName": "https://i.ibb.co/TqD02Mn/agent-preview.jpg"
