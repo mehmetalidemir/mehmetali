@@ -10,5 +10,17 @@
         "name": "Agent",
         "imageName": "https://i.ibb.co/f4YjFHc/agent.jpg",
         "previewImageName": "https://i.ibb.co/TqD02Mn/agent-preview.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Agent 1",
+        "imageName": "https://i.ibb.co/8N9F9hg/agent1.jpg",
+        "previewImageName": "https://i.ibb.co/wCmmPV2/agent1-preview.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Astronaut",
+        "imageName": "https://i.ibb.co/hVRGDP2/astronaut1.jpg",
+        "previewImageName": "https://i.ibb.co/hHG3SRy/astronaut1-preview.jpg"
     }
 ]
