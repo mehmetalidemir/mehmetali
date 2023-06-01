@@ -1,7 +1,13 @@
 [
     {
-        "name": "Abstract Blue",
-        "imageName": "https://i.imgur.com/Qq2ltJh.jpg",
-        "previewImageName": "https://i.imgur.com/5svIiU9.jpg"
+        "name": "Abstract",
+        "imageName": "https://i.ibb.co/5rZJmFm/abstract.jpg",
+        "previewImageName": "https://i.ibb.co/vq7644V/abstract-preview.jpg"
     },
+    {
+        "name": "Agent",
+        "imageName": "https://i.ibb.co/f4YjFHc/agent.jpg",
+        "previewImageName": "https://i.ibb.co/TqD02Mn/agent-preview.jpg"
+    }
+   
 ]
